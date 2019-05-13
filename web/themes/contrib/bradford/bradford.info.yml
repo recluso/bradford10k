@@ -1,0 +1,5 @@
+name: 'Bradford'
+type: theme
+base theme: integrity
+description: 'Theme for Bradford 10k site, based on the Integrity theme as base.'
+core: 8.x
